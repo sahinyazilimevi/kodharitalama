@@ -1,0 +1,27 @@
+Graphify (upstream project)
+Copyright 2026 Safi Shamsi and the Graphify contributors.
+Upstream: https://github.com/Graphify-Labs/graphify
+
+This product is licensed under the Apache License, Version 2.0 (see LICENSE).
+
+Portions of this software were contributed under the MIT License prior to the
+relicensing and remain available under those terms. The original MIT license
+text is retained in LICENSE-MIT.
+
+---
+
+kodharitalama (adapted distribution)
+Yazılımcı: Murat ŞAHİN
+Marka: Şahin Yazılım Evi
+
+This distribution is a security-hardened adaptation of the Graphify project.
+The upstream copyright and license notices above are retained in full as
+required by the Apache License, Version 2.0. The upstream project is referenced
+for attribution only; it does not maintain, sponsor, or endorse this
+distribution.
+
+Changes made in this distribution include, but are not limited to: local-only
+skill installation guidance, hardened URL fetching and include-path
+containment, a distribution-name change with import/CLI compatibility
+retained, and hash-locked dependency metadata. See REFERENCES.md and
+docs/DENETIM_RAPORU_TR.md for details.
